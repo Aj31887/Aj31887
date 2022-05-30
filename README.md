@@ -2,6 +2,7 @@ Hi, my name is Mohamed Naji
 I’m interested in learning new things, creating and improving  projects.
 I’m currently learning Html, CSS, JS, Jquery, C#, and PHP.
 You can reach me by saying my name three times in a dark room! Just kidding, here are my contact info:
+- website: https://mohamed-naji.netlify.app/
 - mail: mohammed.riad.naji@gmail.com
 - mobile: 0738961269
 
